@@ -3,3 +3,6 @@
 #Ignore .env files
 #Ignore node_modules
 #Ignore other files you don't want to share
+
+.env
+**/node_modules
